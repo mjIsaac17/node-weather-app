@@ -1,1 +1,1 @@
-## NODE console application to consult the weather per city.
+## NODE console application to consult the weather by city.
